@@ -1,18 +1,18 @@
 # Customer-Churn-Analysis
 
-Project Overview
+# Project Overview
 
 Customer churn is when customers stop doing business with a company. In this project, I analyzed customer data to identify
 patterns and predict churn using data analytics techniques.
 The goal was to provide insights that help businesses improve customer retention.
 
-Tools & Libraries
+# Tools & Libraries
 
 Python: Pandas, NumPy, Matplotlib, Seaborn
 
 Jupyter Notebook: For analysis and visualization
 
-Steps in Analysis
+# Steps in Analysis
 
 Data Cleaning – Handling missing values, duplicates, and formatting.
 
@@ -22,7 +22,7 @@ Visualization – Creating graphs and charts for insights.
 
 Insights – Understanding key drivers of customer churn.
 
-Key Insights
+# Key Insights
 
 Customers with short tenure are more likely to churn.
 
